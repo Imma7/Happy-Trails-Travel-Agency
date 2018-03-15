@@ -17,19 +17,19 @@ li a{
 li a:hover{
     background-color: #111;
 }
-h1.tropical{
+.tropical{
     color: #f7325e;
     font-family: fantasy;
 }
-h2.tropical{
-    color: #f7325e;
+.tropical p{
+    color: purple;
     font-family: fantasy;
 }
-h1.popular{
-    color: maroon;
-    font-family: 'Courier New', Courier, monospace;
+.popular{
+    color:blue;
+    font-family: sans-serif;
 }
-h2.popular{
-    color: blue;
-    font-family: 'Courier New', Courier, monospace;
+.popular p{
+    color: lawngreen;
+    font-family:sans-serif;
 }
